@@ -1,6 +1,5 @@
 import java.util.*;
 /**
- * PS4
  * Kevin Bacon Game
  * Dartmouth CS 10, Winter 2024
  * Authors Firdavskhon Babaev & Dhanush Balaji
