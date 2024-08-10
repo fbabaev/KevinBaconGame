@@ -4,7 +4,6 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Problem Set 4 (PS4)
  * Kevin Bacon Game
  * Dartmouth CS 10, Winter 2024
  * Authors: Firdavshkaon Babaev & Dhanush Balaji
